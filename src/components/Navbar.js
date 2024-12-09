@@ -3,7 +3,11 @@ import React from 'react'
 export default function Navbar() {
   return (
     <div className=''>
-      Navbar
+      <span>Navbar</span>
+      <p>Kyaa haal hai bawa</p>
+      <input>Email</input>
+      <button style={{color:'red'}}> <a href='https://chatgpt.com/'>Click</a></button>
+
     </div>
   )
 }
