@@ -5,7 +5,9 @@ export default function Navbar() {
     <div className=''>
       <span>Navbar</span>
       <p>Kyaa haal hai bawa</p>
+      <input>Email</input>
       <button style={{color:'red'}}> <a href='https://chatgpt.com/'>Click</a></button>
+
     </div>
   )
 }
